@@ -20,12 +20,6 @@
       "baseUrl": "https://lx-rpu-vc.gteh.top/",
       "hasDirHash": true,
       "hasArchive": false
-    },
-    {
-      "name": "Test Source (Not in service)",
-      "baseUrl": "http://127.0.0.1:8080/",
-      "hasDirHash": true,
-      "hasArchive": false
     }
   ]
 }
