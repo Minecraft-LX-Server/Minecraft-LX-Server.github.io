@@ -4,19 +4,13 @@
   "disableBuiltinSources": true,
   "sources": [
     {
-      "name": "GitHub (by xingteh)",
+      "name": "GitHub （由 xingteh 提供）",
       "baseUrl": "https://lx-rpu-gh.gteh.top/",
       "hasDirHash": true,
       "hasArchive": false
     },
     {
-      "name": "GitLab (by xingteh)",
-      "baseUrl": "https://lx-rpu-gl.gteh.top/",
-      "hasDirHash": true,
-      "hasArchive": false
-    },
-    {
-      "name": "Vercel (Hong Kong, China / Singapore)",
+      "name": "Vercel （中国香港 / 新加坡, xingteh）",
       "baseUrl": "https://lx-rpu-vc.gteh.top/",
       "hasDirHash": true,
       "hasArchive": false
