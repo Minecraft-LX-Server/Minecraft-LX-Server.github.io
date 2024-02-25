@@ -6,13 +6,13 @@
     {
       "name": "GitHub (by xingteh)",
       "baseUrl": "https://lx-rpu-gh.gteh.top/",
-      "hasDirHash": true,
+      "hasDirHash": false,
       "hasArchive": false
     },
     {
-      "name": "Vercel (Hong Kong, China / Singapore, xingteh)",
+      "name": "Vercel (US)",
       "baseUrl": "https://lx-rpu-vc.gteh.top/",
-      "hasDirHash": true,
+      "hasDirHash": false,
       "hasArchive": false
     }
   ]
