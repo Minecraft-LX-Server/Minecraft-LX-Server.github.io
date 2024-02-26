@@ -10,6 +10,12 @@
       "hasArchive": false
     },
     {
+      "name": "jsDelivr (GitHub)",
+      "baseUrl": "https://cdn.jsdelivr.net/gh/Minecraft-LX-Server/rpu/",
+      "hasDirHash": false,
+      "hasArchive": false
+    },
+    {
       "name": "Vercel (US)",
       "baseUrl": "https://lx-rpu-vc.gteh.top/",
       "hasDirHash": false,
